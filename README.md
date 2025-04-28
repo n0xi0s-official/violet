@@ -16,7 +16,7 @@ It provides full control over the victim’s machine, resolves many legacy issue
 
 # *Features*
 
-## *Device Control*
+## Device Control
 ![Device Control](https://files.catbox.moe/imyl4p.png)
 
 - *VNC*  
