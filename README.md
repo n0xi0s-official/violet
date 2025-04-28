@@ -36,7 +36,7 @@ It provides full control over the victim’s machine, resolves many legacy issue
 
 ---
 
-## *System Control*
+## System Control
 ![System Control](https://files.catbox.moe/624do1.png)
 
 - *File Executor*  
@@ -59,7 +59,7 @@ It provides full control over the victim’s machine, resolves many legacy issue
 
 ---
 
-## *Tools*
+## Tools
 ![Tools](https://files.catbox.moe/q2ofrw.png)
 
 - *Blank Screen*  
@@ -91,7 +91,7 @@ It provides full control over the victim’s machine, resolves many legacy issue
 
 ---
 
-## *Defender Manipulation*
+## Defender Manipulation
 ![Defender Manipulation](https://files.catbox.moe/r80fpl.png)
 
 - *UAC Manager*  
@@ -108,7 +108,7 @@ It provides full control over the victim’s machine, resolves many legacy issue
 
 ---
 
-## *Network Manipulation*
+## Network Manipulation
 ![Network Manipulation](https://files.catbox.moe/wkrv3p.png)
 
 - *DDoS Attack*  
@@ -125,7 +125,7 @@ It provides full control over the victim’s machine, resolves many legacy issue
 
 ---
 
-# *Built-In Tools*
+# Built-In Tools
 
 ## *Injector*
 ![Injector](https://files.catbox.moe/eml4h2.png)
@@ -148,7 +148,6 @@ It provides full control over the victim’s machine, resolves many legacy issue
 
 ---
 
-# *More Info*
 
 ## *FAQ*
 
