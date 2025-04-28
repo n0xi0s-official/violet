@@ -167,4 +167,4 @@ It provides full control over the victim’s machine, resolves many legacy issue
   24/7 customer support team available.
 
 - *How to buy?*  
-  Visit [*VioletRat.net](https://violetrat.net/) or [Start Contract*](#).
+  Visit [*VioletRat.net](https://violetrat.net/)
